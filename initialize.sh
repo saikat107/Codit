@@ -12,3 +12,4 @@ mkdir full_report/bleu_scores/code_change_data;
 mkdir full_report/correct_ids/code_change_data;
 mkdir full_report/details/code_change_data;
 mkdir full_report/edit_distances/code_change_data;
+mkdir tmp;
