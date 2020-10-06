@@ -51,8 +51,8 @@ def transform_structurally(structure_opts, golden_id_file):
 
 
 def get_paths(dataset_str):
-    return "/home/saikatc/Research/Codit/data/raw/" + dataset_str + '/', \
-           '/home/saikatc/Research/Codit/models/' + dataset_str + '/'
+    return "data/raw/" + dataset_str + '/', \
+           'models/' + dataset_str + '/'
 
 
 if __name__ == '__main__':
